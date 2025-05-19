@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std:
+
+int main()
+{
+    cout << "Digite dois numeros:" << endl;
+    cin >> x >> y;
+
+    while(x != y) {
+        if(x < y) {
+            cout << "CRESCENTE!" << endl;
+        }
+        else {
+            cout << "DESCRECENTE!" << endl;
+        
+        cout << "Digite mais 2 numeros:" << endl;
+        cin 
+        }
+    }
+    return 0;
+}
